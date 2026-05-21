@@ -24,8 +24,7 @@ You can configure it using the Jenkins UI without writing any code.
 echo "Hello Guys"
 echo "Like, Share, Subscribe"
 mkdir -p devops
-echo "DevOps folder created successfully!"
-echo "Jenkins Freestyle Job completed!"
+echo "DevOps folder created"
 ```
 
 ---
