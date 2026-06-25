@@ -79,3 +79,11 @@ pipeline {
 ## Tech Stack
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📸 Screenshots
+
+### Pipeline Stages
+![Pipeline Stages](pipeline-stages.png)
+
+### Console Output
+![Console Output](console-output.png)
