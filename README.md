@@ -62,3 +62,20 @@ pipeline {
 - **stage('Build')** — Compile the source code
 - **stage('Test')** — Run automated tests
 - **stage('Deploy')** — Deploy application to the server
+
+- ---
+
+## 🔧 Practical Demo — GitHub + Jenkins Integration
+
+### ✅ Pipeline Successfully Run!
+
+**Stages completed:**
+- ✅ Checkout SCM
+- ✅ Build
+- ✅ Test
+- ✅ Deploy
+- ✅ Post Actions — Pipeline Successful!
+
+## Tech Stack
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
