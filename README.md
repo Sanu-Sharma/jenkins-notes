@@ -82,6 +82,9 @@ pipeline {
 
 ## 📸 Screenshots
 
+### Build Status
+![Build Status](build-status.png.png)
+
 ### Pipeline Stages
 ![Pipeline Stages](pipeline-stages.png.png)
 
