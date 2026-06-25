@@ -83,7 +83,6 @@ pipeline {
 ## 📸 Screenshots
 
 ### Pipeline Stages
-![Pipeline Stages](pipeline-stages.png)
+![Pipeline Stages](pipeline-stages.png.png)
 
-### Console Output
-![Console Output](console-output.png)
+![Console Output](console-output.png.png)
