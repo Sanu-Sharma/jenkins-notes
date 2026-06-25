@@ -85,4 +85,5 @@ pipeline {
 ### Pipeline Stages
 ![Pipeline Stages](pipeline-stages.png.png)
 
+### Console Output
 ![Console Output](console-output.png.png)
